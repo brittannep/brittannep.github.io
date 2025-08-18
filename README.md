@@ -1,2 +1,2 @@
 # brittannep.github.io
-Data Analyst who is passionate about customer success analytics. Currently in the Tech industry.
+I’m a data analyst with a passion for turning complex data into actionable insights that drive business decisions. With hands-on experience in SQL, Excel, Python, and data visualization tools like Tableau and Power BI, I specialize in uncovering trends, streamlining reporting, and making data more accessible to non-technical stakeholders. I'm currently seeking new opportunities where I can contribute to a data-driven team and continue growing my skills in analytics, storytelling, and problem-solving.
