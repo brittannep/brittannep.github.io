@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-If you'd like to get in touch, please email me at [your-email@example.com](mailto:your-email@example.com)
+If you'd like to get in touch, please email me at [brittannep95@example.com](mailto:brittannep95@example.com)
 
 Or use the contact form below:
 
