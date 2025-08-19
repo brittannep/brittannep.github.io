@@ -19,7 +19,7 @@ Education
 Work experience
 ======
 
-* Consultant | September 2024 - Present
+* Consultant - September 2024 - Present
   * Envio Courier Limited
   * Duties includes: 
     * TBD
