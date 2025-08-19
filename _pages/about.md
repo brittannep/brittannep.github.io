@@ -1,9 +1,9 @@
 ---
-permalink: /
+permalink: /publications/
 title: "Welcome to My Portfolio"
 author_profile: true
 redirect_from: 
-  - /Publications/
+  - /publications/
   - /publications.html
 ---
 
