@@ -8,16 +8,16 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<br>
 Work experience
 ======
 
-* Consultant - September 2024 - Present
+* <b>Consultant - September 2024 - Present</b>
   * Envio Courier Limited
   * Duties includes: 
     * TBD
 
-* Developer Analyst
+* <b>Developer Analyst</b>
   * National Commercial Bank
   * Duties included: 
     * Designed and optimized PL/SQL scripts to monitor transactional patterns, detect anomalies, and support fraud investigations.
@@ -27,7 +27,7 @@ Work experience
     * Used Oracle Enterprise Manager for diagnostics, performance tuning, and workload monitoring to prevent service disruptions.
 
 
-* Applications Analyst
+* <b>Applications Analyst</b>
   * Vertis Technoligies Solutions
   * Duties included: 
     * Built secure database schemas, stored procedures, and triggers to enforce business rules and maintain data integrity.
@@ -59,7 +59,7 @@ Skills
 Education
 ======
 
-* B.S. in Computer Information Systems, Northern Caribbean University, 2019
+* <b>B.S. in Computer Information Systems</b>, Northern Caribbean University, 2019
 
 
 Certifications
