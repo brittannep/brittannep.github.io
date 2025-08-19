@@ -11,11 +11,6 @@ redirect_from:
 
 <br>
 
-Education
-======
-
-* B.S. in Computer Information Systems, Northern Caribbean University, 2019
-
 Work experience
 ======
 
@@ -42,6 +37,7 @@ Work experience
     * Assisted in integrating Java-based applications with backend systems, focusing on secure API connections.
     * Conducted performance tuning to improve system response times and reduce security risks from unoptimized queries.
   
+
 Skills
 ======
 
@@ -56,6 +52,13 @@ Skills
 * Technical Writing, Documentation
 * UNIX scripting
 * Attention to detail
+
+
+Education
+======
+
+* B.S. in Computer Information Systems, Northern Caribbean University, 2019
+
 
 Certifications
 ======
