@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-<b>
+
+<br>
+
 Education
 ======
 
@@ -43,12 +45,18 @@ Work experience
 Skills
 ======
 
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Intrusion Detection | Incident Triage,
+* Network Monitoring and restoration
+* Data Analysis | Insight Presentation
+* Analytical problem-solving
+* Project Management
+* ServiceNow	
+* Cross-Functional Collaboration
+* Active Directory
+* Microsoft Azure | AWS basics | GIT
+* Technical Writing | Documentation
+* UNIX scripting
+* Attention to detail
 
 Certifications
 ======
