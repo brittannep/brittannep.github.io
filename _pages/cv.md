@@ -41,17 +41,21 @@ Work experience
 Skills
 ======
 
-* Data Analysis
-* Analytical problem-solving
-* Project Management
-* ServiceNow, Jira, Slack
-* Cross-Functional Collaboration
-* Active Directory
-* Microsoft Azure, AWS
-* GIT Version Control
-* Technical Writing, Documentation
-* UNIX scripting
-* Attention to detail
+* Core Data Analysis Skills
+  * Data Analysis
+  * Analytical Problem-Solving
+  * Attention to Detail
+* Technical & Tools Proficiency
+  * ServiceNow, Jira, Slack (Workflow & Collaboration Tools)
+  * Active Directory
+  * Microsoft Azure, AWS (Cloud Platforms)
+  * GIT Version Control
+  * UNIX Scripting
+* Project & Collaboration Skills
+  * Project Management
+  * Cross-Functional Collaboration
+* Communication & Documentation
+  * Technical Writing, Documentation
 
 
 Education
