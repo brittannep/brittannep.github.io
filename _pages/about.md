@@ -28,13 +28,13 @@ With hands-on experience in tools like **SQL, Excel, Tableau, and Python**, I lo
 
 ## 📁 Projects
 
-- 📦 **Courier Analytics Dashboard**  
+- **Courier Analytics Dashboard**  
   Built a real-time delivery performance dashboard for a logistics company in Jamaica using Tableau.
 
-- 📊 **Retail Sales Insights**  
+- **Retail Sales Insights**  
   Used Python and SQL to analyze historical sales data and identify trends, boosting forecast accuracy by 20%.
 
-- 🧼 **Data Cleaning Automation**  
+- **Data Cleaning Automation**  
   Developed Python scripts to automate tedious Excel cleaning tasks, reducing hours of manual work.
 
 > You can explore more on [my GitHub »](https://github.com/brittannep)
@@ -49,9 +49,9 @@ I thrive on solving analytical problems and creating visual narratives that brin
 
 ## 📬 Let’s Connect
 
-- [📄 View my CV](/cv/)  
-- [🐙 GitHub](https://github.com/brittannep)  
-- [📧 Email](mailto:your@email.com)
+- [View my CV](/cv/)  
+- [GitHub](https://github.com/brittannep)  
+- [Email](mailto:your@email.com)
 
 ---
 
