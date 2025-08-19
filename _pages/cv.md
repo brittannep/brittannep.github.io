@@ -9,64 +9,56 @@ redirect_from:
 
 {% include base_path %}
 
+Education
+======
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Jekyll, GitHub University, 2014
+* B.S. in GitHub, GitHub University, 2012
 
 Work experience
 ======
+* Spring 2024: Academic Pages Collaborator
+  * GitHub University
+  * Duties includes: Updates and improvements to template
+  * Supervisor: The Users
 
-* Consultant - September 2024 - Present
-  * Envio Courier Limited
-  * Duties includes: 
-    * TBD
+* Fall 2015: Research Assistant
+  * GitHub University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
 
-* Developer Analyst
-  * National Commercial Bank
-  * Duties included: 
-    * Designed and optimized PL/SQL scripts to monitor transactional patterns, detect anomalies, and support fraud investigations.
-    * Maintained data security by implementing access control measures and performing regular permission audits.
-    * Collaborated with IT security teams to resolve incidents related to unauthorized access and system vulnerabilities.
-    * Developed automated alerts and reporting modules to enhance compliance with financial regulations.
-    * Used Oracle Enterprise Manager for diagnostics, performance tuning, and workload monitoring to prevent service disruptions.
-
-
-* Applications Analyst
-  * Vertis Technoligies Solutions
-  * Duties included: 
-    * Built secure database schemas, stored procedures, and triggers to enforce business rules and maintain data integrity.
-    * Migrated large datasets securely using SQL*Loader, ensuring confidentiality and accuracy.
-    * Assisted in integrating Java-based applications with backend systems, focusing on secure API connections.
-    * Conducted performance tuning to improve system response times and reduce security risks from unoptimized queries.
+* Summer 2015: Research Assistant
+  * GitHub University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
   
-
 Skills
 ======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
 
-* Core Data Analysis Skills
-  * Data Analysis
-  * Analytical Problem-Solving
-  * Attention to Detail
-* Technical & Tools Proficiency
-  * ServiceNow, Jira, Slack (Workflow & Collaboration Tools)
-  * Active Directory
-  * Microsoft Azure, AWS (Cloud Platforms)
-  * GIT Version Control
-  * UNIX Scripting
-* Project & Collaboration Skills
-  * Project Management
-  * Cross-Functional Collaboration
-* Communication & Documentation
-  * Technical Writing, Documentation
-
-
-Education
+Publications
 ======
-
-* B.S. in Computer Information Systems, Northern Caribbean University, 2019
-
-
-Certifications
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
 ======
-* Datacamp - Certified Data Analyst Associate
-
-* Datacamp - Certified SQL Associate
-    
-* Microsoft Certified: Azure Fundamentals
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
