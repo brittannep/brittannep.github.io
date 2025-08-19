@@ -45,16 +45,17 @@ Work experience
 Skills
 ======
 
-* Intrusion Detection | Incident Triage,
+* Intrusion Detection % Incident Triaging
 * Network Monitoring and restoration
-* Data Analysis | Insight Presentation
+* Data Analysis
 * Analytical problem-solving
 * Project Management
 * ServiceNow	
 * Cross-Functional Collaboration
 * Active Directory
-* Microsoft Azure | AWS basics | GIT
-* Technical Writing | Documentation
+* Microsoft Azure & AWS basics
+* GIT Version Control
+* Technical Writing/Documentation
 * UNIX scripting
 * Attention to detail
 
