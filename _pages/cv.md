@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 <br>
 
-Work experience
-======
+Work Experience
+===============
 
 * <b>Consultant - September 2024 - Present</b>
   * Envio Courier Limited
@@ -19,7 +19,7 @@ Work experience
     * TBD
 
 * <b>Developer Analyst</b>
-  * National Commercial Bank
+  * <i>National Commercial Bank </i>
   * Duties included: 
     * Designed and optimized PL/SQL scripts to monitor transactional patterns, detect anomalies, and support fraud investigations.
     * Maintained data security by implementing access control measures and performing regular permission audits.
@@ -29,45 +29,46 @@ Work experience
 
 
 * <b>Applications Analyst</b>
-  * Vertis Technoligies Solutions
+  * <i>Vertis Technoligies Solutions</i>
   * Duties included: 
     * Built secure database schemas, stored procedures, and triggers to enforce business rules and maintain data integrity.
     * Migrated large datasets securely using SQL*Loader, ensuring confidentiality and accuracy.
     * Assisted in integrating Java-based applications with backend systems, focusing on secure API connections.
     * Conducted performance tuning to improve system response times and reduce security risks from unoptimized queries.
   
+<br>
 
-Skills
-======
+Core Skills & Tools
+===================
 
-* Core Data Analysis Skills
-  * Data Analysis
-  * Analytical Problem-Solving
-  * Attention to Detail
-* Technical & Tools Proficiency
-  * ServiceNow, Jira, Slack (Workflow & Collaboration Tools)
-  * Active Directory
-  * Microsoft Azure, AWS (Cloud Platforms)
-  * GIT Version Control
-  * UNIX Scripting
-* Project & Collaboration Skills
-  * Project Management
-  * Cross-Functional Collaboration
-* Communication & Documentation
-  * Technical Writing, Documentation
+* Data Analysis: 
+  * SQL, PL/SQL, Oracle, Excel, Pivot Tables, Power Query
+* Visualization: 
+  * Tableau, Power BI (if applicable)
+* Data Management: 
+  * Data Cleansing, ETL, Schema Design, Data Governance
+* Analytical Skills: 
+  * Pattern Detection, KPI Tracking, Anomaly Detection
+* Soft Skills: 
+  * Problem-Solving, Project Management, Cross-Functional Collaboration
+* Other: 
+  * Active Directory, ServiceNow, Technical Documentation
 
+
+<br>
 
 Education
-======
+=========
 
 * <b>B.S. in Computer Information Systems</b>, Northern Caribbean University, 2019
 
+<br>
 
 Certifications
-======
-* Datacamp - Certified Data Analyst Associate
+==============
+* Certified Data Analyst Associate
 
-* Datacamp - Certified SQL Associate
+* Certified SQL Associate (D)
     
 * Microsoft Certified: Azure Fundamentals
 
